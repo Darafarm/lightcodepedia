@@ -11,8 +11,8 @@ The curriculum also ventures beyond traditional screens, exploring user experien
 such as voice user interfaces (VUI), augmented and virtual reality (AR/VR), and AI-driven adaptive environments, 
 preparing students for the future of human-machine collaboration.
 
-- [🎓 HCI 1: Foundations and User-Centric Design](pages/course-one)
-- [🎓 HCI 2: Prototyping and Interaction Mechanics](pages/course-two)
+- [🎓 HCI 1: Foundations and User-Centric Design](/pages/course-one)
+- [🎓 HCI 2: Prototyping and Interaction Mechanics](/pages/course-two)
 {: .prerequisite score="4"}
 
 ## 🎲 Quiz for HCI 3
