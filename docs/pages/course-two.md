@@ -1,3 +1,6 @@
+---
+title: "HCI 2: Prototyping and Interaction Mechanics"
+---
 # HCI - 2
 ## Prototyping and Interaction Mechanics
 
@@ -6,6 +9,9 @@ Students transition from static sketches to high-fidelity, interactive prototype
 The course deeply examines micro-interactions, responsive behavior across diverse form factors, and information architecture. 
 Additionally, students are introduced to front-end implementation basics, bridging the gap between design theory and technical constraints, 
 while learning how to effectively manage user workflows, navigation systems, and error handling.
+
+- [🎓 HCI 1: Foundations and User-Centric Design](pages/course-one)
+{: .prerequisite score="4"}
 
 ## 🎲 Quiz for HCI 2
 ### 🎲 HCI 2: Prototyping and Interaction Mechanics
