@@ -1,9 +1,10 @@
 # Course Report
 
 ```Python
+@component()
 class Course(Object):
     code = Attr(str, "HCI 1", enum=["HCI 1", "HCI 2", "HCI 3"])
-    score = Attr(float, 0, min=0, max=15, hint="Enter final score (0-15)")
+    score = Attr(float, 0, min=0, max=15, step=1, hint="Enter final score (0-15)")
     remark = Attr(str, "Pending", enum=["Pending", "Pass", "Failed"], ro=True)
     eligible = State(["No", "Yes"])
     
@@ -20,4 +21,8 @@ class Course(Object):
         else:
             raise ValueError("Score is 12 or above, use 'mark_passed' instead.")
 
+
+report = Course()
+
 ```
+{: .inspector #report_widget }
