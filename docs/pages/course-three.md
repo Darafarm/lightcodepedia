@@ -1,3 +1,7 @@
+---
+title: "HCI 3: Advanced Evaluation and Emerging Tech"
+---
+
 # HCI - 3
 ## Advanced Evaluation and Emerging Tech
 
@@ -6,6 +10,10 @@ Students will master quantitative and qualitative testing, including rigorous A/
 The curriculum also ventures beyond traditional screens, exploring user experience design for emerging technologies 
 such as voice user interfaces (VUI), augmented and virtual reality (AR/VR), and AI-driven adaptive environments, 
 preparing students for the future of human-machine collaboration.
+
+- [🎓 HCI 1: Foundations and User-Centric Design](pages/course-one)
+- [🎓 HCI 2: Prototyping and Interaction Mechanics](pages/course-two)
+{: .prerequisite }
 
 ## 🎲 Quiz for HCI 3
 ### 🎲 HCI 3: Advanced Evaluation and Emerging Tech
