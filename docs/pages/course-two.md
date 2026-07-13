@@ -10,7 +10,7 @@ The course deeply examines micro-interactions, responsive behavior across divers
 Additionally, students are introduced to front-end implementation basics, bridging the gap between design theory and technical constraints, 
 while learning how to effectively manage user workflows, navigation systems, and error handling.
 
-- [🎓 HCI 1: Foundations and User-Centric Design](pages/course-one)
+- [🎓 HCI 1: Foundations and User-Centric Design](/pages/course-one)
 {: .prerequisite score="4"}
 
 ## 🎲 Quiz for HCI 2
