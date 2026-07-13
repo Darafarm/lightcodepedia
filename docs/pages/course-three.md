@@ -13,7 +13,7 @@ preparing students for the future of human-machine collaboration.
 
 - [🎓 HCI 1: Foundations and User-Centric Design](pages/course-one)
 - [🎓 HCI 2: Prototyping and Interaction Mechanics](pages/course-two)
-{: .prerequisite }
+{: .prerequisite score="4"}
 
 ## 🎲 Quiz for HCI 3
 ### 🎲 HCI 3: Advanced Evaluation and Emerging Tech
