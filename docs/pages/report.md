@@ -29,11 +29,11 @@ report = Course()
 
 
 ```yaml
-hci1 : 4
-hci2 : 4
-hci3 : 4
-TotalScore:
+hci1: 4
+hci2: 4
+hci3: 4
+
 ```
 {: .form #inputs editable="true" title="Grades"}
 
-** {= `inputs.hci1` + `inputs.hci2`} **
+TotalScore: {= inputs.hci1 + inputs.hci2}
