@@ -260,22 +260,22 @@
   "scenarios": 112
  },
  {
-  "run": "2026-07-24T16:48Z",
-  "pages": 41,
-  "heap_max_mb": 57.5,
-  "heap_avg_mb": 14.9,
-  "dom_max": 1946,
-  "errors": 7,
-  "passed": 104,
-  "scenarios": 112
- },
- {
-  "run": "2026-07-24T16:57Z",
+  "run": "2026-07-24T17:03Z",
   "pages": 41,
   "heap_max_mb": 57.5,
   "heap_avg_mb": 14.9,
   "dom_max": 1971,
-  "errors": 45,
+  "errors": 3,
+  "passed": 104,
+  "scenarios": 112
+ },
+ {
+  "run": "2026-07-24T17:11Z",
+  "pages": 41,
+  "heap_max_mb": 57.5,
+  "heap_avg_mb": 14.9,
+  "dom_max": 1971,
+  "errors": 33,
   "passed": 104,
   "scenarios": 112
  },
