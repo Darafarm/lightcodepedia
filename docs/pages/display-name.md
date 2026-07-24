@@ -56,5 +56,4 @@ This **interactive map** is centered on the **Northwest Quadrant (NWQ)**, home t
 Watch the video to earn points!
 
 [Emmanuel's Video - Lightcodepedia](https://youtu.be/Fy6zmiDslfI)
-
 {: .video height="380"}
