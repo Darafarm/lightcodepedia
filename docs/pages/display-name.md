@@ -65,7 +65,7 @@ Shaun Hayes,Teaching Faculty III
 Angela Sadowsky,Senior Advisor
 Jin Zhang,Professor
 ```
-{: .datatable}
+{: .datatable height="400"}
 
 ```
 Name,Position
@@ -80,7 +80,7 @@ Shaun Hayes,Teaching Faculty III
 Angela Sadowsky,Senior Advisor
 Jin Zhang,Professor
 ```
-{: .datatable}
+{: .datatable height="400"}
 
 ```
 Name,Position
@@ -95,4 +95,27 @@ Shaun Hayes,Teaching Faculty III
 Angela Sadowsky,Senior Advisor
 Jin Zhang,Professor
 ```
-{: .table}
+{: .table height="400"}
+
+```csv
+Name,Position
+Jin Zhang,Professor
+Wonchan Choi,Associate Professor
+Maria Haigh,Associate Professor
+Margaret Kipp,Associate Professor
+Wan-Chen Lee,Assistant Professor
+Sarah Beth Nelson,Assistant Professor
+Michel Zam,Teaching Faculty II
+Matthew Friedel,Teaching Faculty III
+Shaun Hayes,Teaching Faculty III
+Angela Sadowsky,Senior Advisor
+```
+{: .table-responsive height="400"}
+
+### Intro video to Lightcodepedia
+
+Watch the video to earn points!
+
+[Emmanuel's Video - Lightcodepedia](https://youtu.be/Fy6zmiDslfI)
+
+{: .video height="380"}
