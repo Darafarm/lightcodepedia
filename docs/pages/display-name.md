@@ -46,8 +46,11 @@ This **interactive map** is centered on the **Northwest Quadrant (NWQ)**, home t
   { "lat": 43.0749, "lon": -87.8843, "label": "🌳 Spaights Plaza" }
 ]
 ```
-{: .map height="380" zoom="17" }
+{: .map height="340" zoom="17" }
 
+### 👥 UWM School of Information Studies – Faculty & Staff
+
+The table below lists some faculty and staff members in the School of Information Studies.
 
 ```csv
 Name,Position
@@ -62,4 +65,34 @@ Shaun Hayes,Teaching Faculty III
 Angela Sadowsky,Senior Advisor
 Jin Zhang,Professor
 ```
-{: .table #staff_data}
+{: .datatable}
+
+```
+Name,Position
+Nadine Kozak,Associate Dean & Head of School
+Michel Zam,Teaching Faculty II & BuildAI Lead
+Maria Haigh,Associate Professor
+Margaret Kipp,Associate Professor
+Wan-Chen Lee,Assistant Professor
+Sarah Beth Nelson,Assistant Professor
+Matthew Friedel,Teaching Faculty III
+Shaun Hayes,Teaching Faculty III
+Angela Sadowsky,Senior Advisor
+Jin Zhang,Professor
+```
+{: .datatable}
+
+```
+Name,Position
+Nadine Kozak,Associate Dean & Head of School
+Michel Zam,Teaching Faculty II & BuildAI Lead
+Maria Haigh,Associate Professor
+Margaret Kipp,Associate Professor
+Wan-Chen Lee,Assistant Professor
+Sarah Beth Nelson,Assistant Professor
+Matthew Friedel,Teaching Faculty III
+Shaun Hayes,Teaching Faculty III
+Angela Sadowsky,Senior Advisor
+Jin Zhang,Professor
+```
+{: .table}
