@@ -63,5 +63,4 @@ Shaun Hayes,Teaching Faculty III
 Angela Sadowsky,Senior Advisor
 Jin Zhang,Professor
 ```
-
 {: .table #staff_data}
