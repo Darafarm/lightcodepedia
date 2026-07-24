@@ -1,15 +1,18 @@
 # University of Wisconsin-Milwaukee 
 
-Welcome to the **Information Science** department. 
+Welcome to the ***Information Science*** department. 
 
 ## Courses 
 - INFOST 645 
 - INFOST 646 
 - INFOST 960 
 
+![UWM Logo](https://uwm.edu/brand/wp-content/uploads/sites/610/2020/11/uwm-seo-logo.jpg)
+
 Visit the [UWM Website](https://uwm.edu). 
 
-> Learning Markdown is interesting and gets more interesting!
+### Learning Markdown is interesting and gets more interesting!
+
 
 ```yaml
 student_name:
@@ -47,70 +50,6 @@ This **interactive map** is centered on the **Northwest Quadrant (NWQ)**, home t
 ]
 ```
 {: .map height="340" zoom="17" }
-
-### 👥 UWM School of Information Studies – Faculty & Staff
-
-The table below lists some faculty and staff members in the School of Information Studies.
-
-```csv
-Name,Position
-Nadine Kozak,Associate Dean & Head of School
-Michel Zam,Teaching Faculty II & BuildAI Lead
-Maria Haigh,Associate Professor
-Margaret Kipp,Associate Professor
-Wan-Chen Lee,Assistant Professor
-Sarah Beth Nelson,Assistant Professor
-Matthew Friedel,Teaching Faculty III
-Shaun Hayes,Teaching Faculty III
-Angela Sadowsky,Senior Advisor
-Jin Zhang,Professor
-```
-{: .datatable height="400"}
-
-```
-Name,Position
-Nadine Kozak,Associate Dean & Head of School
-Michel Zam,Teaching Faculty II & BuildAI Lead
-Maria Haigh,Associate Professor
-Margaret Kipp,Associate Professor
-Wan-Chen Lee,Assistant Professor
-Sarah Beth Nelson,Assistant Professor
-Matthew Friedel,Teaching Faculty III
-Shaun Hayes,Teaching Faculty III
-Angela Sadowsky,Senior Advisor
-Jin Zhang,Professor
-```
-{: .datatable height="400"}
-
-```
-Name,Position
-Nadine Kozak,Associate Dean & Head of School
-Michel Zam,Teaching Faculty II & BuildAI Lead
-Maria Haigh,Associate Professor
-Margaret Kipp,Associate Professor
-Wan-Chen Lee,Assistant Professor
-Sarah Beth Nelson,Assistant Professor
-Matthew Friedel,Teaching Faculty III
-Shaun Hayes,Teaching Faculty III
-Angela Sadowsky,Senior Advisor
-Jin Zhang,Professor
-```
-{: .table height="400"}
-
-```csv
-Name,Position
-Jin Zhang,Professor
-Wonchan Choi,Associate Professor
-Maria Haigh,Associate Professor
-Margaret Kipp,Associate Professor
-Wan-Chen Lee,Assistant Professor
-Sarah Beth Nelson,Assistant Professor
-Michel Zam,Teaching Faculty II
-Matthew Friedel,Teaching Faculty III
-Shaun Hayes,Teaching Faculty III
-Angela Sadowsky,Senior Advisor
-```
-{: .table-responsive height="400"}
 
 ### Intro video to Lightcodepedia
 
