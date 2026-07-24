@@ -58,21 +58,23 @@ Watch the video to earn points!
 [Emmanuel's Video - Lightcodepedia](https://youtu.be/Fy6zmiDslfI)
 {: .video height="380"}
 
-**Q:** Which of these is not a prerequisite for lightcodepedia?
+
+### Markdown Quiz
+**Q1** Which of these is not a prerequisite for lightcodepedia?
 - [x] Programming knowledge
 - [ ] Learning to use Markdown
 - [ ] Having access to a computer
 - [ ] Having access to the internet
 {: .quiz }
 
-**Q:** What level of technical background is required to be a lightcoder?
+**Q2** What level of technical background is required to be a lightcoder?
 - [ ] Expert
 - [ ] Professional
 - [x] None
 - [ ] Graduate
 {: .quiz }
 
-**Q:** Markdowns require knowledge of coding and computer programming?
+**Q3** Markdowns require knowledge of coding and computer programming?
 - [x] No
 - [ ] Yes
 {: .quiz }
