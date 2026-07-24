@@ -49,6 +49,7 @@ This **interactive map** is centered on the **Northwest Quadrant (NWQ)**, home t
 {: .map height="380" zoom="17" }
 {: .blocks}
 
+
 ```csv
 Name,Position
 Nadine Kozak,Associate Dean & Head of School
@@ -62,4 +63,5 @@ Shaun Hayes,Teaching Faculty III
 Angela Sadowsky,Senior Advisor
 Jin Zhang,Professor
 ```
+
 {: .table #staff_data}
