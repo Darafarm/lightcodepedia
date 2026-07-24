@@ -1,6 +1,14 @@
-# Display Name
+# University of Wisconsin-Milwaukee 
 
-**This is a test to see how the display name shows on each tab**
+Welcome to the **Information Science** department. 
 
-**This page is the tutorial.** Click 📽️ at the bottom-left to enter slide mode.
+## Courses 
+- INFOST 645 
+- INFOST 646 
+- INFOST 960 
+
+Visit the [UWM Website](https://uwm.edu). 
+
+> Learning Markdown is interesting and gets more interesting!
+
 
