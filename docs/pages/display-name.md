@@ -47,7 +47,6 @@ This **interactive map** is centered on the **Northwest Quadrant (NWQ)**, home t
 ]
 ```
 {: .map height="380" zoom="17" }
-{: .blocks}
 
 
 ```csv
