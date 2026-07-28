@@ -2,7 +2,7 @@
 {: .hero}
 
 - [🎓 Link and Images](/pages/report/four)
-{: .prerequisite score="4"}
+{: .prerequisite score="3"}
 
 ## Collecting Information from Visitors
 
