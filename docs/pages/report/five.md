@@ -1,6 +1,9 @@
 # Forms in Markdown (YAML & JSON)
 {: .hero}
 
+- [🎓 Link and Images](/pages/report/four)
+{: .prerequisite score="4"}
+
 ## Collecting Information from Visitors
 
 Do you want to collect the same type of information from a variety of users of your platform and you're confused on how to go about it? 
