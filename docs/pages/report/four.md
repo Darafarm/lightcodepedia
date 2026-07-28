@@ -1,6 +1,9 @@
 # Links and Images in Markdown
 {: .hero}
 
+- [🎓 Lists in Markdown](/pages/report/three)
+{: .prerequisite score="4"}
+
 ## Navigation and Understanding
 Are you stuck at a point without knowing what to do to move or make an exit? Links provide the perfect relief and exit plan.
 
