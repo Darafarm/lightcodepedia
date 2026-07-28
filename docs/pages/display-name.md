@@ -9,6 +9,10 @@ Welcome to the ***Information Science*** department.
 
 ![UWM Logo](https://uwm.edu/brand/wp-content/uploads/sites/610/2020/11/uwm-seo-logo.jpg)
 
+[Next →](/pages/report/one)
+
+[Next 2 →](/pages/report/two)
+
 Visit the [UWM Website](https://uwm.edu). 
 
 ### Learning Markdown is interesting and gets more interesting!
