@@ -9,9 +9,14 @@ Welcome to the ***Information Science*** department.
 
 ![UWM Logo](https://uwm.edu/brand/wp-content/uploads/sites/610/2020/11/uwm-seo-logo.jpg)
 
-[Next →](/pages/report/one)
+## Tutorial pages
+Click to learn more...
 
-[Next 2 →](/pages/report/two)
+[Headers](/pages/report/one) {: .button}
+[Bold & Italics](/pages/report/two) {: .button}
+[List](/pages/report/three) {: .button}
+[Links & Images](/pages/report/four) {: .button}
+[Forms](/pages/report/five) {: .button}
 
 Visit the [UWM Website](https://uwm.edu). 
 
