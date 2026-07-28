@@ -1,6 +1,9 @@
 # Bold and Italics in Markdown
 {: .hero}
 
+- [🎓 Markdown Headers](/pages/report/one)
+{: .prerequisite score="4"}
+
 ## Making Important Ideas Stand Out
 
 Making important text stand out in a document or write up is very crucial in order for important information not to be lost in the main text.
