@@ -12,11 +12,11 @@ Welcome to the ***Information Science*** department.
 ## Tutorial pages
 Click to learn more...
 
-[Headers](/pages/report/one) {: .button}
-[Bold & Italics](/pages/report/two) {: .button}
-[List](/pages/report/three) {: .button}
-[Links & Images](/pages/report/four) {: .button}
-[Forms](/pages/report/five) {: .button}
+[Headers](/pages/report/one){: .button}
+[Bold & Italics](/pages/report/two){: .button}
+[List](/pages/report/three){: .button}
+[Links & Images](/pages/report/four){: .button}
+[Forms](/pages/report/five){: .button}
 
 Visit the [UWM Website](https://uwm.edu). 
 
