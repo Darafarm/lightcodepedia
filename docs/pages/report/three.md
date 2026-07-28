@@ -2,7 +2,7 @@
 {: .hero}
 
 - [🎓 Bold and Italics](/pages/report/two)
-{: .prerequisite score="4"}
+{: .prerequisite score="3"}
 
 ## Organizing a Busy Weekend
 
