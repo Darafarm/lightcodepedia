@@ -2,7 +2,7 @@
 {: .hero}
 
 - [🎓 Markdown Headers](/pages/report/one)
-{: .prerequisite score="3"}
+{: .prerequisite pass="100"}
 
 ## Making Important Ideas Stand Out
 
