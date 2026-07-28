@@ -1,6 +1,9 @@
 # Lists in Markdown
 {: .hero}
 
+- [🎓 Bold and Italics](/pages/report/two)
+{: .prerequisite score="4"}
+
 ## Organizing a Busy Weekend
 
 Go grocery shopping. Finish my homework. Wash the car. Visit my grandparents. Buy a birthday gift. Call my friend. Clean my room... All these are pending activities to be performed but they're poorly written and confusing.
