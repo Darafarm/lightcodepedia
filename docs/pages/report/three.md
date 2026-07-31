@@ -8,7 +8,7 @@
 
 Go grocery shopping. Finish my homework. Wash the car. Visit my grandparents. Buy a birthday gift. Call my friend. Clean my room... All these are pending activities to be performed but they're poorly written and confusing.
 
-When you have several items, and use **lists** to make the information easier to read and follow. This can be acheived in two ways through either an **ordered** or **unordered** list. An **Unordered Lists** is simply a bulleted lists while an **Ordered Lists** numbered lists.
+When you have several items, and use **lists**[^List] to make the information easier to read and follow. This can be acheived in two ways through either an **ordered**[^OL] or **unordered**[^UL] list. An **Unordered Lists** is simply a bulleted lists while an **Ordered Lists** numbered lists.
 
 ## Weekend Tasks
 - Go grocery shopping
@@ -57,3 +57,7 @@ When you have several items, and use **lists** to make the information easier to
 - [x] `1. Apple`
 - [ ] `# Apple`
 {: .quiz }
+
+[^List]: `List` – A collection of related items displayed in a structured format to improve readability and organization. Lists can be either ordered or unordered, depending on whether the sequence of items is important.
+[^OL]: `Ordered List` – A list in which items are displayed in a specific sequence using numbers, letters, or other ordered markers. Ordered lists are used when the order of the items is meaningful, such as steps in a procedure or a ranked list.
+[^UL]: `Unordered List` – A list in which items are displayed using bullet points or other non-sequential markers. Unordered lists are used when the order of the items is not important, such as features, examples, or collections of related concepts.
